@@ -1,0 +1,36 @@
+[
+{
+	"panelType":"ItemMessage",
+	"path":"UIPanel/ItemMessagePanel"
+},
+
+{
+	"panelType":"Knapsack",
+	"path":"UIPanel/KnapsackPanel"
+},
+
+{
+	"panelType":"MainMenu",
+	"path":"UIPanel/MainMenuPanel"
+},
+
+{
+	"panelType":"Shop",
+	"path":"UIPanel/ShopPanel"
+},
+
+{
+	"panelType":"Skill",
+	"path":"UIPanel/SkillPanel"
+},
+
+{
+	"panelType":"System",
+	"path":"UIPanel/SystemPanel"
+},
+
+{
+	"panelType":"Task",
+	"path":"UIPanel/TaskPanel"
+}
+]
